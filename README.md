@@ -18,8 +18,7 @@ You can install the necessary libraries using pip:
 
 bash
 Copy code
-pip install requests beautifulsoup4 -
-pip install requests
+pip install requests beautifulsoup4
 
 Usage:
 
